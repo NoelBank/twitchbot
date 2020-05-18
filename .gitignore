@@ -86,3 +86,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+
+## tokens and passwords :)
+
+tokens.json
+keys.json
